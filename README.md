@@ -24,7 +24,7 @@ Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
-🎯 Atualmente
+🎯 Atualmente:
 
 📚 Participando da Formação Java do +Devs2Blu.
 
@@ -36,12 +36,9 @@ Ferramentas
 
 🌱 Buscando novos desafios e oportunidades de aprendizado.
 
-📊 GitHub Stats
-!GitHub Stats
-
-!Top Languages
 
 🌎 About me
+
 Hi! I'm Giovanni, a software development student currently participating in the +Devs2Blu Java Training Program.
 
 I'm interested in backend development, software architecture, and building practical software solutions.
