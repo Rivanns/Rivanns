@@ -2,6 +2,7 @@
 GITHUB PROFILE README
 Profile: Giovanni | Rivanns
 Theme: Tokyo Night
+Giovanni - 
 -->
 
 <!-- BANNER -->
@@ -10,7 +11,7 @@ Theme: Tokyo Night
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:7AA2F7&height=220&section=header&text=Giovanni&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Java%20Developer%20in%20Progress&descAlignY=55&descSize=18&animation=fadeIn"
 width="100%"
-alt="Giovanni - Java Developer in Progress"
+alt="Java Developer in Progress"
 />
 </p>
 
