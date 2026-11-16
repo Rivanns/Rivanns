@@ -1,46 +1,44 @@
-<!-- ========================================== -->
-<!-- GIOVANNI | RIVANNS -->
-<!-- THEME: A LINK TO THE PAST -->
-<!-- FOREST GREEN / ANTIQUE GOLD / DARK STONE -->
-<!-- ========================================== -->
+<!--
+GITHUB PROFILE README
+Profile: Giovanni | Rivanns
+Theme: Tokyo Night
+Giovanni - 
+Giovanni
+-->
 
-<!-- PIXEL ART HEADER -->
+<!-- BANNER -->
+
 <p align="center">
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=183F2B&height=190&section=header&text=JAVA%20DEVELOPER&fontSize=34&fontColor=F0E6C8&fontAlignY=43&desc=IN%20PROGRESS&descSize=19&descColor=D7B96D&descAlignY=62"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:7AA2F7&height=220&section=header&text=&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Java%20Developer%20in%20Progress&descAlignY=55&descSize=18&animation=fadeIn"
 width="100%"
 alt="Java Developer in Progress"
 />
 </p>
 
-<p align="center">
-<code>✦ BACKEND DEVELOPMENT</code> •
-<code>SOFTWARE ARCHITECTURE</code> •
-<code>CONTINUOUS LEARNING</code>
-</p>
+<!-- APRESENTAÇÃO -->
 
-<p align="center">
-<img src="https://img.shields.io/badge/GITHUB-RIVANNS-183F2B?style=for-the-badge&logo=github&logoColor=D7B96D"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-365C40?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARNING-JAVA-B18A4A?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+<h1 align="center">Olá! Eu sou o Giovanni 👋</h1>
 
-<!-- ORNAMENT -->
-<p align="center">
-✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧
-</p>
-
-<!-- ABOUT -->
-<table width="100%" bgcolor="#102019" cellpadding="14">
-<tr>
-<td>
-
-<h2 align="center">✦ Sobre mim ✦</h2>
-
-<p align="center">
-<strong>Olá! Eu sou o Giovanni 👋</strong><br/>
+<h3 align="center">
 Desenvolvedor Java em formação ☕
+</h3>
+
+<p align="center">
+Backend Development • Software Architecture • Continuous Learning
 </p>
+
+<p align="center">
+<a href="https://github.com/Rivanns">
+<img src="https://img.shields.io/badge/GitHub-Rivanns-24283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-7AA2F7?style=for-the-badge" alt="Backend Development"/>
+<img src="https://img.shields.io/badge/Learning-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+
+<!-- SOBRE MIM -->
+
+<h2>👨‍💻 Sobre mim</h2>
 
 <p>
 Sou estudante de desenvolvimento de software e atualmente participo da
@@ -59,57 +57,31 @@ Sou uma pessoa analítica, criativa e curiosa, com disposição para aprender,
 enfrentar desafios e aprimorar continuamente meus conhecimentos.
 </p>
 
-</td>
-</tr>
-</table>
+<!-- TECNOLOGIAS -->
 
-<p align="center">
-✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧
+<h2>🛠️ Tecnologias e ferramentas</h2>
+
+<h3>💻 Linguagens de programação e desenvolvimento</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" height="55" alt="Java, JavaScript, HTML5 e CSS3"/>
 </p>
 
-<!-- TECHNOLOGIES -->
-<table width="100%" bgcolor="#102019" cellpadding="14">
-<tr>
-<td>
+<h3>⚙️ Frameworks e banco de dados</h3>
 
-<h2 align="center">✦ Tecnologias e ferramentas ✦</h2>
-
-<h3 align="center">Linguagens de programação</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" height="55" alt="Java, JavaScript, HTML e CSS"/>
-</p>
-
-<h3 align="center">Frameworks e banco de dados</h3>
-
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" height="55" alt="Spring e MySQL"/>
 </p>
 
-<h3 align="center">Ferramentas de desenvolvimento</h3>
+<h3>🔧 Ferramentas e ambientes de desenvolvimento</h3>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" height="55" alt="Git, GitHub, IntelliJ IDEA e VS Code"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" height="55" alt="Git, GitHub, IntelliJ IDEA e Visual Studio Code"/>
 </p>
 
-</td>
-</tr>
-</table>
+<!-- ATUALMENTE -->
 
-<p align="center">
-✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧
-</p>
-
-<!-- CURRENT FOCUS -->
-<table width="100%" bgcolor="#102019" cellpadding="14">
-<tr>
-<td>
-
-<h2 align="center">✦ Atualmente ✦</h2>
-
-<p>
-<img src="https://img.shields.io/badge/LEARNING-JAVA-D4B96D?style=flat-square&labelColor=183F2B"/>
-</p>
+<h2>🎯 Atualmente</h2>
 
 <ul>
 <li>📚 Participando da Formação Java do <strong>+Devs2Blu</strong>.</li>
@@ -119,20 +91,9 @@ enfrentar desafios e aprimorar continuamente meus conhecimentos.
 <li>🚀 Buscando novos desafios e oportunidades de aprendizado.</li>
 </ul>
 
-</td>
-</tr>
-</table>
+<!-- PROJETOS -->
 
-<p align="center">
-✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧
-</p>
-
-<!-- PROJECTS -->
-<table width="100%" bgcolor="#102019" cellpadding="14">
-<tr>
-<td>
-
-<h2 align="center">✦ Projetos ✦</h2>
+<h2>📂 Projetos</h2>
 
 <p>
 Aqui compartilho projetos acadêmicos, exercícios práticos e aplicações
@@ -140,52 +101,46 @@ desenvolvidas durante minha jornada de aprendizado em tecnologia.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROJECTS-IN%20DEVELOPMENT-B18A4A?style=for-the-badge&labelColor=183F2B"/>
+<em>🚧 Projetos em organização. Em breve, novos repositórios e aplicações!</em>
 </p>
 
-<p align="center">
-<em>Novos projetos e aplicações em desenvolvimento.</em>
+<!--
+Adicione seus projetos nesta seção quando selecionar os repositórios.
+
+Exemplo:
+
+<h3>Nome do projeto</h3>
+<p>Descrição breve do projeto e suas funcionalidades.</p>
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" height="30"/>
 </p>
+<a href="LINK_DO_REPOSITORIO">Ver projeto</a>
+-->
 
-</td>
-</tr>
-</table>
+<!-- CONTATO -->
 
-<p align="center">
-✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧
-</p>
+<h2>📫 Contato</h2>
 
-<!-- CONTACT -->
-<table width="100%" bgcolor="#102019" cellpadding="14">
-<tr>
-<td>
-
-<h2 align="center">✦ Contato ✦</h2>
-
-<p align="center">
+<p>
 Você pode conhecer meus estudos e acompanhar meus projetos pelo GitHub:
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Rivanns">
-<img src="https://img.shields.io/badge/GITHUB-RIVANNS-24563A?style=for-the-badge&logo=github&logoColor=D7B96D"/>
+<img src="https://img.shields.io/badge/GitHub-Rivanns-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
-</td>
-</tr>
-</table>
+<!--
+Adicione futuramente:
 
-<p align="center">
-✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧
-</p>
+LinkedIn: https://linkedin.com/in/SEU_USUARIO
+E-mail: SEU_EMAIL
+-->
 
 <!-- ENGLISH VERSION -->
-<table width="100%" bgcolor="#102019" cellpadding="14">
-<tr>
-<td>
 
-<h2 align="center">✦ About me ✦</h2>
+<h2>🌎 About me</h2>
 
 <p>
 Hi! I'm Giovanni, a software development student currently participating
@@ -204,22 +159,15 @@ opportunities to grow as a developer.
 </p>
 
 <p align="center">
-<em>Always learning, building and evolving.</em>
+<em>Always learning, building and evolving. 🚀</em>
 </p>
 
-</td>
-</tr>
-</table>
+<!-- FOOTER -->
 
-<!-- PIXEL ART FOOTER -->
 <p align="center">
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=183F2B&height=100&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B27&height=100&section=footer"
 width="100%"
-alt="Pixel Forest Footer"
+alt="Footer"
 />
-</p>
-
-<p align="center">
-<code>✧ RIVANNS · KEEP BUILDING ✧</code>
 </p>
